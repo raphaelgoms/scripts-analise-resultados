@@ -1,2 +1,2 @@
 # scripts-analise-resultados
-Scripts em Python para análise e comparação dos resultados (da minha pesquisa de doutorado)
+Scripts em Python para análise e visualização dos resultados (da minha pesquisa de doutorado)
